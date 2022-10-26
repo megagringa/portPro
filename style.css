@@ -68,18 +68,9 @@ body {
 }
 
 
-
 span {
     color: var(--primary);
 }
-
-
-
-
-
-
-
-
 
 
 /*Briefcase*/
@@ -116,13 +107,6 @@ span {
 }
 
 
-
-
-
-
-
-
-
 /*about*/
 
 .about {
@@ -132,7 +116,7 @@ span {
     display: flex;
     width: 90%;
     margin: 0 auto;
-    padding: 50px 0 100px; 
+    padding: 50px 0 30px; 
 }
 
 .about p {
@@ -173,7 +157,7 @@ footer {
     grid-template-columns: repeat(auto-fit,minmax(250px,auto));
     justify-content: center;
     gap: 20px;
-    padding-bottom: 200px;
+    padding-bottom: 50px;
     width: 90%;
     margin: 0 auto;
     
