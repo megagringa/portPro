@@ -1,3 +1,3 @@
 # portPro
 
-[Portafolio](https://github.com/megagringa/portPro/blob/main/flip-book/flip-book/index.html)
+[Portafolio](https://https://github.com/megagringa/portPro/index.html)
